@@ -77,7 +77,7 @@
   font-weight: bold;
 } /* Keyword.Reserved */
 .m-code .kt {
-  color: #98c379;
+  color: #c678dd;
   font-weight: bold;
 } /* Keyword.Type */
 .m-code .m {
@@ -111,7 +111,7 @@
   color: #dcdcdc;
 } /* Name.Exception */
 .m-code .nf {
-  color: #dcdcdc;
+  color: #61aeee;
 } /* Name.Function */
 .m-code .nl {
   color: #dcdcdc;
@@ -123,14 +123,14 @@
   color: #dcdcdc;
 } /* Name.Other */
 .m-code .py {
-  color: #dcdcdc;
+  color: #d19a66;
 } /* Name.Property */
 .m-code .nt {
   color: #dcdcdc;
   font-weight: bold;
 } /* Name.Tag */
 .m-code .nv {
-  color: #c7cf2f;
+  color: #d19a66;
 } /* Name.Variable */
 .m-code .ow {
   color: #dcdcdc;
